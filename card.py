@@ -6,6 +6,7 @@ pygame.font.init()
 
 #Dette er en kommentar
 #  Dette er også en kommentar
+# Test brach kommentar
 
 from global_variables import *
 
