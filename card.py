@@ -4,6 +4,8 @@ import numpy as np
 import sys
 pygame.font.init()
 
+#Dette er en kommentar
+
 from global_variables import *
 
 class Card:
