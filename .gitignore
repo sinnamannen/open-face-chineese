@@ -1,0 +1,16 @@
+# Julia
+*.ji
+*.cov
+*.mem
+
+# Generated training/evaluation artifacts
+artifacts/models/*
+artifacts/runs/*
+artifacts/replay/*
+artifacts/evals/*
+
+!artifacts/README.md
+!artifacts/models/.gitkeep
+!artifacts/runs/.gitkeep
+!artifacts/replay/.gitkeep
+!artifacts/evals/.gitkeep
